@@ -1,1 +1,2 @@
 Hello I am text file 1
+file 1 modified 
